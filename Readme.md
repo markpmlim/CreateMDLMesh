@@ -9,4 +9,4 @@ A simple demo on how to create an instance of MDLMesh from raw data.
 **Requirements**
 
 
-Compiled with XCode 8.3.2 running under macOS 10.12.x
+XCode 8.3.2 running under macOS 10.12.x
